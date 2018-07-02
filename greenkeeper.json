@@ -1,0 +1,14 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Dzien_1/1_Przygotowanie_React/package.json",
+        "Dzien_1/2_Skladnia_JSX_wstep/package.json",
+        "Dzien_1/3_Skladnia_JSX_wyrazenia/package.json",
+        "Dzien_1/4_Skladnia_JSX_atrybuty/package.json",
+        "Dzien_1/5_Skladnia_JSX_zagniezdzanie/package.json",
+        "Dzien_1/6_Postawy_komponentow/package.json"
+      ]
+    }
+  }
+}
