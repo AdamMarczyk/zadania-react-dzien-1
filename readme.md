@@ -1,4 +1,7 @@
 # React &ndash; zadania &ndash; podstawy i JSX
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/AdamMarczyk/zadania-react-dzien-1.svg)](https://greenkeeper.io/)
+
 ## Jak rozwiązywać zadania?
 
 Wykonaj następujące kroki:
