@@ -1,0 +1,1 @@
+webpack wersja 3, bo 4 potrzebuje jeszcze cli
